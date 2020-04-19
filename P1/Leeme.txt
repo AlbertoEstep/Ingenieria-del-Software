@@ -1,0 +1,9 @@
+Aspectos a considerar:
+	- Hemos entregado un único ProductBacklog, ya que no modificamos el inicial durante el Sprint.
+	- Hay un archivo .png que contiene el diagrama de clases en buena resolución, ya que, es posible que el que contiene el pdf no se vea todo lo bien que debería.
+	- No hemos encontrado ningún lugar donde se nos especifique el nombre exacto del .zip.Por si acaso, somos el equipo 1 del grupo 2231, compuesto por: 
+		- Pablo Díez
+		- Alberto Estepa
+		- Arturo Casabón
+		- Raquel González
+		- Sergio Serrano
